@@ -1,0 +1,183 @@
+@import url(./styleguide.css);
+
+
+
+.landing-page {
+    align-items: flext-start;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    min-height: 4823px;
+    overflow: hidden;
+    width: 1366px;
+}
+
+.hidden, .hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.flex-row-2 {
+    align-items: center;
+    align-self: center;
+    display: flex;
+    gap: 81px;
+    margin-left: 14px;
+    margin-top: 93px;
+    min-width: 1256px;
+}
+
+.overlap-group17 {
+    height: 534px;
+    position: relative;
+    width: 435px;
+}
+
+.rectangle-8 {
+    background-color: var(--purple-heart);
+    height: 403px;
+    left: 13px;
+    position: absolute;
+    top: 131px;
+    width: 419px;
+}
+
+.portrait-excited-joy {
+    height: 534px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 435px;
+}
+
+.flex-col-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 74px;
+    min-height: 466px;
+    /* margin-left: 0px; */
+    margin-top: 10.5px;
+    width: 740px;
+}
+
+.overlap-group-conatiner-2 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    gap: 47px;
+    height: 105px;
+    min-width: 721px;
+}
+
+.overlap-group5 {
+    align-items: flex-end;
+    background-color: var(--catskill-white);
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 105px;
+    padding: 15px 32px;
+    width: 209px;
+}
+
+.ipl-logo-png-transparent-images-1404 {
+    height: 28px;
+    margin-right: 33px;
+    margin-top: 16px;
+    width: 79px;
+}
+
+.flex-row {
+    align-items:flex-start;
+    display: flex;
+    gap: 3px;
+    height: 23px;
+    min-width: 123px;
+}
+
+.available {
+    letter-spacing: 0.12px;
+    line-height: 15px;
+    min-height: 23px;
+    white-space: nowrap;
+}
+
+.address {
+    letter-spacing: 0.12px;
+    line-height: 15px;
+    min-width: 48px;
+    min-height: 23px;
+    white-space: nowrap;
+}
+
+.overlap-group12 {
+    align-items: flex-end;
+    background-color: var(--catskill-white);
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    min-height: 105px;
+    padding: 13px 28px;
+    width: 209px;
+}
+
+.google-logo-png-29546 {
+    align-self: center;
+    border-radius: 14px;
+    height: 47px;
+    width: 47px;
+}
+
+.flex-row-3 {
+    align-items: flex-start;
+    display: flex;
+    gap: 2px;
+    height: 25px;
+    min-width: 125px;
+}
+
+.address-2 {
+    align-self: flex-end;
+    letter-spacing: 0.12px;
+    line-height: 15px;
+    min-height: 23px;
+    white-space: nowrap;
+    min-width: 51px;
+}
+
+.overlap-group18 {
+    align-items: flex-end;
+    background-color: var(--catskill-white);
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    min-height: 105px;
+    padding: 15px 38px;
+    width: 209px;
+}
+
+.pngpix-com-ibm-logo-png-transparent {
+    height: 28px;
+    margin-right: 34px;
+    margin-top: 10px;
+    width: 64px;
+}
+
+.overlap-group14 {
+    height: 286px;
+    position:relative;
+    width: 735px;
+}
+
+.amet-minim-mollit-no {
+    left: 19px;
+    letter-spacing: 0.17px;
+    line-height: 21px;
+    position: absolute;
+    top: 194px;
+    width: 696px;
+}

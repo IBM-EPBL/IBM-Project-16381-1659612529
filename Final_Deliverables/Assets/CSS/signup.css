@@ -1,0 +1,41 @@
+/* Styles are imported directly from the login.css files */
+
+@import url(./login.css);
+
+.have-account-1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  margin-left: 5.5rem;
+  font-size: 1rem;
+  color: rgb(96, 92, 92);
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+.signup-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 57px;
+  white-space: nowrap;
+  margin-top: 2rem;
+}
+
+.group-signup-7 {
+  align-items: flex-end;
+  background-color: var(--piction-blue);
+  border-radius: 22px;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  margin-top: 30px;
+  min-width: 139px;
+  padding: 8px 40px;
+}

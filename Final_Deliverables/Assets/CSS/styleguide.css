@@ -1,0 +1,189 @@
+/* Default  */
+
+
+
+/* Variables */
+
+/* colors variables */
+:root {
+    --black-3: rgba(0, 0, 0, 0.06);
+    --black: rgba(0, 0, 0, 0.769);
+    --black-2: rgba(0, 0, 0, 1);
+    --log-cabin: rgba(34, 31, 31, 1);
+    --shark: rgba(41, 41, 41, 0.529);
+    --piction-blue: rgba(69, 161, 231, 1);
+    --purple-heart: rgba(101, 69, 231, 1);
+    --dove-gray: rgba(112, 112, 112, 0.051);
+    --dove-gray-2: rgba(112, 112, 112, 0.102);
+    --star-dust: rgba(159, 159, 159, 0.42);
+    --star-dust-2: rgba(159, 159, 159, 0.529);
+    --shady-lady: rgba(169, 169, 169, 1);
+    --celeste: rgba(203, 203, 203, 0.769);
+    --celeste-2: rgba(206, 206, 206, 1);
+    --geyser: rgba(209, 224, 233, 0.38);
+    --catskill-white: rgba(238, 243, 247, 1);
+    --bittersweet: rgba(254, 121, 119, 1);
+    --white: rgba(255, 255, 255, 1);
+    
+    /* font size variables */
+
+    --font-size-s: 16px;
+    --font-size-m: 18px;
+    --font-size-l: 21px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 27px;
+    --font-size-xxxl: 29px;
+    --font-size-xxxxl: 67px;
+
+    /* font family variables */
+
+    --font-family-poppins: "popins", sans-serif;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* classes */
+
+.poppins-semi-bold-log-cabin-24px {
+    color: var(--log-cabin);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-normal-shark-23px {
+    color: var(--shark);
+    font-family: var(--font-family-poppins);
+    font-size: 23px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-semi-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold-white-29px {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-normal-celeste-24px {
+    color: var(--celeste);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-normal-star-dust-23px {
+    color: var(--star-dust);
+    font-family: var(--font-family-poppins);
+    font-size: 23px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-bold-black-29px {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-bold-piction-blue-20px {
+    color: var(--piction-blue);
+    font-family: var(--font-family-poppins);
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-normal-celeste-15px {
+    color: var(--celeste);
+    font-family: var(--font-family-poppins);
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-semi-bold-black-21px {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-normal-star-dust-29px {
+    color: var(--star-dust);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxl);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-normal-celeste-16px {
+    color: var(--celeste);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-normal-shady-lady-21px {
+    color: var(--shady-lady);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-bold-black-67px {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-semi-bold-black-24 {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins.poppins-semi-bold-black-27px {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxl);
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins.normal-star-dust-18px {
+    color: var(--star-dust);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-bold-log-cabin-20px {
+    color: var(--log-cabin);
+    font-family: var(--font-family-poppins);
+    font-size: 20px;
+    font-weight: 700;
+    font-style: normal;
+}
+/* ---------------------------------------------------------------------------------------------------------------------------------------- */
